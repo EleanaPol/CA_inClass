@@ -19,7 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ef3fa00-2632-4f92-8f46-80ea45829547" name="Default Changelist" comment="" />
+    <list default="true" id="4ef3fa00-2632-4f92-8f46-80ea45829547" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.autonomous-agents/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.autonomous-agents/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.autonomous-agents/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.autonomous-agents/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/agent_object.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/agent_object.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Agent.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Agent.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/PopulationManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PopulationManager.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,8 +41,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scripts/PopulationManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Agent.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PopulationManager.cs" />
       </list>
     </option>
   </component>
@@ -79,7 +86,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1643984724622</updated>
-      <workItem from="1643984739767" duration="8332000" />
+      <workItem from="1643984739767" duration="9089000" />
+      <workItem from="1644519230200" duration="54000" />
+      <workItem from="1644594471056" duration="6178000" />
     </task>
     <servers />
   </component>
@@ -98,8 +107,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="953" y="0" width="974" height="1047" key="dock-window-1" timestamp="1644598044192">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="953" y="0" width="974" height="1047" key="dock-window-1/0.0.1920.1040/-3840.0.1280.680@0.0.1920.1040" timestamp="1644598044192" />
   </component>
 </project>
